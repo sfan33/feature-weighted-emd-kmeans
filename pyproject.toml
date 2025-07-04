@@ -1,0 +1,20 @@
+[project]
+name = "feature-weighted-emd-kmeans"
+version = "0.1.0"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "ipykernel>=6.29.5",
+    "lime>=0.2.0.1",
+    "matplotlib>=3.10.1",
+    "numpy>=2.2.4",
+    "openpyxl>=3.1.5",
+    "pandas>=2.2.3",
+    "pot>=0.9.5",
+    "scikit-learn>=1.6.1",
+    "seaborn>=0.13.2",
+    "shap>=0.47.2",
+    "tqdm>=4.67.1",
+    "xgboost>=3.0.1",
+    "xlsxwriter>=3.2.3",
+]
